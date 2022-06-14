@@ -15,3 +15,5 @@ Given the time constraint I created a simple responsive single page app that fet
 * Create an image carousel and populate it with images from fetching data from cat api
 * Use react router and create another page for the image carousel
 
+<img src='./src/assets/cat-app-ss.PNG' alt='cat' />
+
