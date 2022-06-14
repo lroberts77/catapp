@@ -1,0 +1,39 @@
+.hero-container {
+  height: 84vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.hero-img-cr {
+  display: flex;
+  align-self: center;
+}
+
+.text-cr {
+  align-self: center;
+}
+
+.btn-cr {
+  display: flex;
+  justify-content: center;
+  margin: 70px 0px 50px 0px;
+}
+
+.img {
+  height: 50vh;
+  padding: 0px 100px 100px 100px;
+}
+
+.new-cat-btn {
+  background: black;
+  border-radius: 10px;
+  color: white;
+  padding: 5px;
+}
+
+@media only screen and (max-width: 600px) {
+  .img {
+    height: 40vh;
+    padding-top: 30px;
+  }
+}
